@@ -180,6 +180,7 @@
       "MrAlucardDante",
       "NemesisXB",
       "QuadMcFly (Ryan Harrell)",
+      "Raw Dirty Bastert",
       "Sjoer van der Ploeg",
       "Stingers Swarm",
       "Sugar K",
@@ -4697,6 +4698,24 @@
         "GPS"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/raw/raw_rc.txt",
+      "hash": "98ce48e7758dad203471ab4ba2c2654100a2d4c16cdb1bc8c1f7563c1f81afbd",
+      "title": "RAW RC Settings",
+      "firmware_version": [
+        "4.4",
+        "4.5"
+      ],
+      "category": "RC_LINK",
+      "status": "OFFICIAL",
+      "keywords": [
+        "elrs",
+        "250hz",
+        "rc"
+      ],
+      "author": "Raw Dirty Bastert",
       "priority": 0
     },
     {
